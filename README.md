@@ -10,13 +10,13 @@
 
 ## Overview
 
-COBOL Bridge is the world's first Model Context Protocol (MCP) server purpose-built for connecting legacy COBOL mainframe estates to modern AI governance and compliance frameworks. With 220 billion lines of COBOL still powering $3 trillion in daily commerce, organizations face a critical compliance gap as the EU AI Act deadline approaches in August 2026.
+COBOL Bridge is the world's first Model Context Protocol (MCP) server purpose-built for connecting legacy COBOL mainframe estates to modern AI governance and compliance frameworks. With 220 billion lines of COBOL still powering trillions in daily commerce, organizations face a critical compliance gap as the EU AI Act deadline approaches in August 2026.
 
 **Key Benefits:**
-- ✅ Full AI governance compliance in weeks, not years
-- ✅ Zero code rewrites or re-platforming risk
-- ✅ MCP-native architecture for universal AI compatibility
-- ✅ Enterprise-grade security (SOC 2, ISO 27001, GDPR, HIPAA)
+- Full AI governance compliance in weeks, not years
+- Zero code rewrites or re-platforming risk
+- MCP-native architecture for universal AI compatibility
+- Enterprise-grade security (SOC 2, ISO 27001, GDPR, HIPAA)
 
 ## Five Integrated MCP Governance Tools
 
@@ -85,7 +85,7 @@ Add to your Cursor MCP settings:
 - **On-Premises**: Self-hosted with full data sovereignty
 - **Hybrid**: Mix SaaS and on-prem for gradual adoption
 
-## Security & Compliance
+## Security and Compliance
 
 - SOC 2 Type II
 - ISO 27001
@@ -110,7 +110,6 @@ Add to your Cursor MCP settings:
 - **Product**: https://csga-global.org/mcp/cobol-bridge
 - **Documentation**: https://csga-global.org/docs
 - **NPM Package**: https://www.npmjs.com/package/cobol-bridge-mcp
-- **Smithery**: https://smithery.ai/servers/csgaglobal/cobol-bridge
 - **Live Demo**: https://cobol-bridge-9xxbtxxi5-niks-projects-0a2ef942.vercel.app/health
 
 ## About CSGA Global
