@@ -2,6 +2,7 @@
 
 [![CSGA Global](https://img.shields.io/badge/CSGA-Global-blue)](https://csga-global.org)
 [![MCP](https://img.shields.io/badge/MCP-Compatible-green)](https://modelcontextprotocol.io)
+[![NPM](https://img.shields.io/badge/NPM-cobol--bridge--mcp-red)](https://www.npmjs.com/package/cobol-bridge-mcp)
 [![Vercel](https://img.shields.io/badge/Vercel-Deployed-black)](https://vercel.com)
 
 > **Connect legacy COBOL mainframe systems to modern AI governance via MCP**  
@@ -39,7 +40,7 @@ Converts EBCDIC-encoded data to UTF-8 across 10 international code pages. Handle
 ### Installation
 
 ```bash
-npm install -g @csga-global/cobol-bridge
+npm install -g cobol-bridge-mcp
 ```
 
 ### Usage with Claude Desktop
@@ -51,7 +52,7 @@ Add to your `claude_desktop_config.json`:
   "mcpServers": {
     "cobol-bridge": {
       "command": "npx",
-      "args": ["-y", "@csga-global/cobol-bridge"]
+      "args": ["-y", "cobol-bridge-mcp"]
     }
   }
 }
@@ -66,11 +67,16 @@ Add to your Cursor MCP settings:
   "mcpServers": {
     "cobol-bridge": {
       "command": "npx",
-      "args": ["-y", "@csga-global/cobol-bridge"]
+      "args": ["-y", "cobol-bridge-mcp"]
     }
   }
 }
 ```
+
+## Live Deployment
+
+- **Health Check**: https://cobol-bridge-p7isnjse5-niks-projects-0a2ef942.vercel.app/health
+- **MCP Endpoint**: https://cobol-bridge-p7isnjse5-niks-projects-0a2ef942.vercel.app/mcp/sse
 
 ## Deployment Options
 
@@ -103,9 +109,9 @@ Add to your Cursor MCP settings:
 
 - **Product**: https://csga-global.org/mcp/cobol-bridge
 - **Documentation**: https://csga-global.org/docs
-- **Live Demo**: https://cobol-bridge.vercel.app/health
+- **NPM Package**: https://www.npmjs.com/package/cobol-bridge-mcp
 - **Smithery**: https://smithery.ai/servers/csgaglobal/cobol-bridge
-- **NPM**: https://www.npmjs.com/package/@csga-global/cobol-bridge
+- **Live Demo**: https://cobol-bridge-p7isnjse5-niks-projects-0a2ef942.vercel.app/health
 
 ## About CSGA Global
 
