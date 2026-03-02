@@ -1,1 +1,37 @@
-{"name":"@csga-global/cobol-bridge","version":"1.0.0","description":"COBOL Bridge MCP Server","main":"server.js","scripts":{"start":"node server.js"},"dependencies":{"@modelcontextprotocol/sdk":"^1.0.4","express":"^4.18.2","cors":"^2.8.5"},"engines":{"node":"18.x"},"repository":{"type":"git","url":"https://github.com/CSGA-GLOBAL/cobol-bridge.git"},"homepage":"https://csga-global.org/mcp/cobol-bridge"}
+{
+  "name": "@csga-global/cobol-bridge",
+  "version": "1.0.0",
+  "description": "COBOL Bridge MCP Server - AI Governance for Legacy Mainframes by CSGA Global",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'Build complete'"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4",
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": "24.x"
+  },
+  "keywords": [
+    "cobol",
+    "mcp",
+    "mainframe",
+    "ai-governance",
+    "compliance",
+    "legacy-systems",
+    "csga"
+  ],
+  "author": "James Castle <james@csga-global.org>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CSGA-GLOBAL/cobol-bridge.git"
+  },
+  "homepage": "https://csga-global.org/mcp/cobol-bridge",
+  "bugs": {
+    "url": "https://github.com/CSGA-GLOBAL/cobol-bridge/issues"
+  }
+}
