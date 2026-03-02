@@ -75,8 +75,8 @@ Add to your Cursor MCP settings:
 
 ## Live Deployment
 
-- **Health Check**: https://cobol-bridge-p7isnjse5-niks-projects-0a2ef942.vercel.app/health
-- **MCP Endpoint**: https://cobol-bridge-p7isnjse5-niks-projects-0a2ef942.vercel.app/mcp/sse
+- **Health Check**: https://cobol-bridge-9xxbtxxi5-niks-projects-0a2ef942.vercel.app/health
+- **MCP Endpoint**: https://cobol-bridge-9xxbtxxi5-niks-projects-0a2ef942.vercel.app/mcp/sse
 
 ## Deployment Options
 
@@ -111,7 +111,7 @@ Add to your Cursor MCP settings:
 - **Documentation**: https://csga-global.org/docs
 - **NPM Package**: https://www.npmjs.com/package/cobol-bridge-mcp
 - **Smithery**: https://smithery.ai/servers/csgaglobal/cobol-bridge
-- **Live Demo**: https://cobol-bridge-p7isnjse5-niks-projects-0a2ef942.vercel.app/health
+- **Live Demo**: https://cobol-bridge-9xxbtxxi5-niks-projects-0a2ef942.vercel.app/health
 
 ## About CSGA Global
 
